@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+}
+.card {
+    background-color: #f5ecec;
+    border-radius: 10px;
+    border: none;
+}
+.card-body {
+    padding: 2rem;
+}
